@@ -4,3 +4,13 @@
 
 ## For MAC
  ``` conda create sphinx --prefix=/Users/burcinbo/miniconda3/envs/test ```
+ 
+ ## Setup sphix
+ 
+git init
+sphinx-quickstart
+
+Seperate source and build  - y
+
+sphinx-build source build
+
