@@ -1,4 +1,4 @@
-name: /home/sabryr/miniconda3/env/sphinx3
+name: sphinx3
 channels:
   - defaults
 dependencies:
@@ -23,4 +23,4 @@ dependencies:
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7f8727e_4
-prefix: /home/sabryr/miniconda3/env/sphinx3
+
